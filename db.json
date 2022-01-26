@@ -10,7 +10,7 @@
             "task" : "restart Rabbitmq_fileserver_kafka"
             }
         ],
-        "suricata_rules": None,
-        "rules_version": None
+        "suricata_rules": "null",
+        "rules_version": "null"
     }
 }
