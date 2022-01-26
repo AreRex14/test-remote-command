@@ -1,0 +1,16 @@
+{
+    "data": {
+        "task":[
+            {
+            "task_uuid": "984f2a20-6638-4eda-85fa-78bb09a7dfff",
+            "task" : "restart Redis_cids_rabbitmq"
+            },
+            {
+            "task_uuid": "984f2a20-6638-4eda-85fa-78bb09a7dfff",
+            "task" : "restart Rabbitmq_fileserver_kafka"
+            }
+        ],
+        "suricata_rules": None,
+        "rules_version": None
+    }
+}
